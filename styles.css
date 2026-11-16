@@ -1,3 +1,7 @@
 h1 {
  color: red; 
 }
+#cagnotte {
+  border: 1px solid gray;
+  padding: 10px;
+}
